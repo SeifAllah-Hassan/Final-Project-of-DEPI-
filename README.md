@@ -1,5 +1,5 @@
 # Final-Project-of-DEPI-
-Supply Chain Qualtiy Data Analysis using Tableua 
+Supply Chain Qualtiy Data Analysis 
 
 Data source:
 Data Source: The company “obviEnce” created this sample using real, anonymized data.
